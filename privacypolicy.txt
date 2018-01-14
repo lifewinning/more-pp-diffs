@@ -2,7 +2,7 @@
 Privacy Policy
 
 
-This policy is effective as of May 22, 2006.
+This policy is effective as of September 5, 2006.
 
 
 Facebook Principles
@@ -19,6 +19,10 @@ There is an increasing amount of information available out there, and you may wa
 
 Sharing information should be easy.  And we want to provide you with the privacy tools necessary to control how and with whom you share that information. If you have questions or ideas, please send them to privacy@facebook.com.
 
+Safe Use of Facebook
+
+For information for users and parents about staying safe on Facebook, click here.
+
 Facebook's Privacy Policy
 
 Facebook's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Facebook located at www.facebook.com ("Facebook" or "Web Site").
@@ -27,7 +31,7 @@ By using or accessing Facebook, you are accepting the practices described in thi
 
 Facebook is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build userâs trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.facebook.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact our privacy staff at privacy@facebook.com.  
+If you have questions or concerns regarding this statement, you should first contact our privacy staff at privacy@facebook.com.
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe Watchdog at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -41,9 +45,9 @@ When you enter Facebook, we collect your browser type and IP address. This infor
 
 When you use Facebook, you may form relationships, send messages, perform searches and queries, form groups, set up events, and transmit information through various channels.  We collect this information so that we can provide you the service and offer personalized features.  In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
 
-If you post personally identifiable information in areas of the site accessible to other users, you should be aware that such information can be read, collected, or used by other users of these forums, and could be used improperly to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums or for othersâ misuse of such information. Any misuse or improper collection of information provided on Facebook is a violation of the Facebook Terms of Service and should be reported through our Abuse page.
+If you post personally identifiable information in areas of the site accessible to other users, you should be aware that such information can be read, collected, or used by other users of these forums, and could be used improperly to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums or for othersâ misuse of such information. Any misuse or improper collection of information provided on Facebook is a violation of the Facebook Terms of Service and should be reported to privacy@facebook.com.
 
-If you choose to use our invitation service to tell a friend about our site, we will ask you for your friendâs email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Facebook stores this information to send this one-time email, to register a friend connection if your invitation is accepted, and to track the success of our referral program.  Your friend may contact us at privacy@facebook.com to request that we remove this information from our database.
+If you choose to use our invitation service to tell a friend about our site, we will ask you for your friendâs email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Facebook stores this information to send this one-time email, to register a friend connection if your invitation is accepted, and to track the success of our referral program.  Your friend may contact us at info@facebook.com to request that we remove this information from our database.
 
 Facebook may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the Facebook service through the operation of the service (e.g., photo tags) in order to provide you with more useful information and a more personalized experience.
 
@@ -51,7 +55,7 @@ By using Facebook, you are consenting to have your personal data transferred to 
 
 Children Under Age 13
 
-Facebook does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Facebook. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy@facebook.com.
+Facebook does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Facebook. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@facebook.com.
 
 Children Between the Ages of 13 and 18
 
@@ -77,9 +81,11 @@ Sharing Your Information with Third Parties
 
 We do not provide contact information to third party marketers without your permission. 
 
-We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example:
+We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you.  For example:
 
 We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Facebook, to remove repetitive information from our user lists, to process payments for products or services, or to provide search results or links (including sponsored links).  In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities.  Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Facebook-specified purposes.
+
+In conjunction with the use of the Facebook Development Platform, third parties who agree to abide by the Facebook Development Platform Terms of Service, including restrictions on access, storage and use of such data, may have limited access to your personal information.  We have undertaken contractual and technical steps to restrict possible misuse of such information by such third parties, but of course cannot and do not guarantee that all third parties will abide by such agreements.  Please report any suspected misuse of information through the Facebook Development Platform here and we will investigate any such claim and take appropriate action against the third party.  You may opt-out of any sharing of information through the Facebook Development Platform on the My Privacy page.
 
 We occasionally provide demonstration accounts that allow non-users a glimpse into the Facebook world.  Such accounts have only limited capabilities (e.g., messaging is disabled) and passwords are changed regularly to limit possible misuse.
 
@@ -103,7 +109,7 @@ This privacy policy covers the use of cookies by Facebook and does not cover the
 
 Changing or Removing Information
 
-Access and control over most personal information on Facebook is readily available through the profile editing tools.  Facebook users may modify or remove any of their profile information at any time by logging into their account. Information will be updated immediately.  Individuals who wish to deactivate their Facebook account may do so on the My Privacy page.  Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of Facebook.
+Access and control over most personal information on Facebook is readily available through the profile editing tools.  Facebook users may modify or remove any of their profile information at any time by logging into their account. Information will be updated immediately.  Individuals who wish to deactivate their Facebook account may do so on the My Account page.  Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of Facebook.
 
 Where you make use of the communication features of the service to share information with other individuals on Facebook, however, (e.g., posting on someone else's Wall) you generally cannot remove such communications.
 
@@ -120,11 +126,11 @@ Contacting the Web Site
 If you have any questions about this privacy policy, please contact us at privacy@facebook.com.
 
 about
-jobs
-advertise
-press
+blog
+developersjobs
 terms
 privacy
+advertise
 
 a Mark Zuckerberg production
 Facebook © 2006
